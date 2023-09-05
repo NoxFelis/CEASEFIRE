@@ -11,7 +11,7 @@ On peut suivre les étapes de build habituel et comme indiqué, le programme s'u
 L'image qui nous intéressera est celle qui est automatiquement nommée 'result.png'. C'est une image où le fond est transparent (au lieu de vert).
 
 Il est préférable pour la suite de modifier le code afin de ranger l'image transparente dans un dossier à part où elle aura le même nom que l'image d'entrée.
-Une fois cela fait le script [masks.sh](masks.sh) peut être utilisé pour créer les masques d'un dossier complet de photos plutôt qu'une par une.
+Une fois cela fait le script [masks.sh](masks.sh) peut être utilisé pour créer les masques d'un dossier complet de photos plutôt qu'une par une. Pour son bon fonctionnement, nous demandons d'avoir un executable du programme 'processImage' dans le même dossier.
 Le script s'appelle :
 
 	./masks.sh -b <background> -p <folder>
