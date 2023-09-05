@@ -25,7 +25,7 @@ Pour le modèle Taurus, il est possible que la texture ne fonctionne pas. Il est
 - ajouter un noeud 'mapping' et relier le 'vector' en sortie avec l'entrée 'vector' de 'noise texture'
 - ajouter un noeud 'texture coordinate' et relier la sortie 'generated' à l'entrée 'vector' du noeud 'mapping'
 
-Vous devriez obtenir ceci: [texture_nodes](/divers_template/texture_nodes.png)
+Vous devriez obtenir ceci: ![texture_nodes](/divers_template/texture_nodes.png)
 
 ![[divers_template/texture_nodes.png]]
  
