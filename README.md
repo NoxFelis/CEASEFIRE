@@ -4,7 +4,8 @@
 ### Images
 Toutes les images faites sont fournies ici, mais pour des conditions optimales de test, il est recommandé d'utiliser les dossiers suivants:
 - **medias/lefaucheux_4mm/fond_vert_3**
-- **medias/lefaucheux_7mm/fond_vert_4** 
+- **medias/lefaucheux_7mm/fond_vert_4**
+
 ainsi que les vidéos suivantes:
 - **medias/lefaucheux_4mm_videos/00003.MTS**
 - **medias/lefaucheux_4mm_videos/00004.MTS**
@@ -52,7 +53,7 @@ On peut suivre les étapes de build habituel et comme indiqué, le programme s'u
 L'image qui nous intéressera est celle qui est automatiquement nommée 'result.png'. C'est une image où le fond est transparent (au lieu de vert).
 
 Il est préférable pour la suite de modifier le code afin de ranger l'image transparente dans un dossier à part où elle aura le même nom que l'image d'entrée.
-Une fois cela fait le script ![[scripts/masks.sh]]
+Une fois cela fait le script ![masks.sh](scripts/masks.sh)
 peut être utilisé pour créer les masques d'un dossier complet de photos plutôt qu'une par une.
 Le script s'appelle :
 
@@ -74,8 +75,7 @@ Le fichier en sortie peut être utilisé alors dans le node 'SfmAlignment' qui s
 - **Translation** : ✓
 - **SfmData File** à relier à l'entrée du 'PrepareDenseScene'
 #### Estimation des critères
-
-L'estimation des critères nécessite un fichier json en entrée de la forme suivante pour un ensemble de reconstructions ![[divers_template/entryCriteres.json]]
+L'estimation des critères nécessite un fichier json en entrée de la forme suivante pour un ensemble de reconstructions ![entryCriteres.json](divers_template/entryCriteres.json)
 
 - les critères de tailles sont à 0 si l'on a pas l'information
 - les autres informations sont à mettre à un string vide ("") si l'on a pas l'information qu'elle soit de référence ou de la reconstruction
