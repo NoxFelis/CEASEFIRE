@@ -230,4 +230,4 @@ Pour aligner les reconstructions afin de les comparer correctement, il est néce
 - **Input** SfmData en sortie du node **StructureFromMotion**
 - **SfmData File** : vers l'entrée **SfmData** du node **PrepareDenseScene**
 - **Alignment Method** from_cameras_poseid 
-- **Scale, Rotation, Translation** tous cochés
+- **Scale, Rotation, Translation** ✓
