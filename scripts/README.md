@@ -48,6 +48,8 @@ L'avantage de ce script est qu'il fonctionne par étape. La console précisera c
 
 En sortie vous trouverez un fichier json comme sur [sortieCriteres.json](../divers_template/sortieCriteres.json)
 Pour chaque reconstruction nous trouvons le même id et "model_path" qu'en entrée. Les autres critères ont soit une valeur soit un NaN (qui indique une non possibilité de calcul).
+
+Le critère de rugosité, ainsi que tous les codes matlab concernés sont du travail de [K. Wang et. al](https://www.sciencedirect.com/science/article/pii/S0097849312001203) et peuvent être retrouvés en intégralité et sans modification [ici](https://www.gipsa-lab.grenoble-inp.fr/~kai.wang/publications_en.html).
 #### Ordonnement des reconstruction par score
 
 On utilise le fichier sorti précédemment en entrée d'une fonction matlab [best_reconstruction.m](score_reconstruction/best_reconstruction.m) on obtient en sortie l'ordre de la meilleure reconstruction à la pire.
