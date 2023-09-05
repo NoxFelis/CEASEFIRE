@@ -1,0 +1,25 @@
+{
+	"groups": [
+		{
+			"longueur": 0,
+			"largeur": 0,
+			"hauteur": 0,
+			"canon": 0,
+			"pic_path": "",
+			"pic_center": "",
+			"model_ref": "",
+			"reconstructions": [
+				{
+					"id": ,
+					"model_path": "",
+					"stats_path": ""
+				},
+				{
+					"id": ,
+					"model_path": "",
+					"stats_path": ""
+				}
+			]
+		}
+	]
+}
