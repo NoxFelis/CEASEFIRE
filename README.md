@@ -58,6 +58,19 @@ Le script s'appelle :
 
 	./masks.sh -b <background> -p <folder>
 #### Extraire des frames des vidéos
+L'extraction de frames se fait en utilisant le script [keyframes.sh](/scripts/keyframes.sh) 
+
+Les arguments possibles sont les suivants comme expliqué dans le code:
+
+```
+the following arguments are:
+	-i /path/to/video
+	-o output folder name
+	-r number of total frames with random algorithm 
+	-s size of space interval between each frame
+	-k key frame algorithm
+```
+
 #### Récupérer les positions pour aligner
 Le script pour récupérer les positions des caméras doit être intégré dans Blender. Il est mentionné plus haut [[README#Blender]]
 
