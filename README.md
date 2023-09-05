@@ -81,6 +81,7 @@ L'estimation des critères nécessite un fichier json en entrée de la forme sui
 - l'id pour chaque reconstruction est à définir au choix, le plus simple est de prendre le numéro du noeud 'StructureFromMotion' sur Meshroom
 
 Une fois le fichier rempli, il peut être utilisé en entrée du script python [score_reconstruction.py](scripts/score_reconstruction/score_reconstruction.py)
+
 Le script se lance ainsi:
 
 	python3 score_reconstruction.py <fichier_entree> <fichier_sortie>
@@ -92,6 +93,7 @@ Pour chaque reconstruction nous trouvons le même id et "model_path" qu'en entr�
 #### Ordonnement des reconstruction par score
 
 On utilise le fichier sorti précédemment en entrée d'une fonction matlab [best_reconstruction.m](scripts/score_reconstruction/best_reconstruction.m) on obtient en sortie l'ordre de la meilleure reconstruction à la pire.
+
 Il est possible de mettre des pauses dans le calcul pour voir les scores correspondant et autres.
 ## Meshroom
 
@@ -197,6 +199,7 @@ toute la suite se fait avec le paramétrage suivant:
 | 41 | toutes les images | x | high | normal | x | x |
 
 fichier : [lefaucheux_7mm_combi.mg](Meshroom-2023/lefaucheux_7mm_combi.mg)
+
 De plus si l'on applique des filtre ce sera ensemble:
 - **Clahe** : Clip Limit 4, Tile Grid Size 8
 - **Bilateral** : Distance 0, Sigma Coordinate Space 5, Sigma Color Space 0
@@ -223,6 +226,7 @@ toute la suite se fait avec le paramétrage suivant:
 Les images utilisées seront celles en sortie du module **scanRig** sur Blender
 
 fichier : [synthetised.mg](Meshroom-2023/synthetised.mg)
+
 Pour aligner les reconstructions afin de les comparer correctement, il est nécessaire d'ajouter un node **SfmAlignment** entre les ndoes **StructureFromMotion** et **PrepareDenseScene** de paramétrage suivant: 
 - **Input** SfmData en sortie du node **StructureFromMotion**
 - **SfmData File** : vers l'entrée **SfmData** du node **PrepareDenseScene**
