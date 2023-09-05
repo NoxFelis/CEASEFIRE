@@ -75,7 +75,7 @@ Le fichier en sortie peut être utilisé alors dans le node 'SfmAlignment' qui s
 - **Translation** : ✓
 - **SfmData File** à relier à l'entrée du 'PrepareDenseScene'
 #### Estimation des critères
-L'estimation des critères nécessite un fichier json en entrée de la forme suivante pour un ensemble de reconstructions ![entryCriteres.json](divers_template/entryCriteres.json)
+L'estimation des critères nécessite un fichier json en entrée de la forme suivante pour un ensemble de reconstructions [entryCriteres.json](divers_template/entryCriteres.json)
 
 - les critères de tailles sont à 0 si l'on a pas l'information
 - les autres informations sont à mettre à un string vide ("") si l'on a pas l'information qu'elle soit de référence ou de la reconstruction
