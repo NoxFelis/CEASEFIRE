@@ -16,7 +16,7 @@ Le script s'appelle :
 
 	./masks.sh -b <background> -p <folder>
 #### Extraire des frames des vidéos
-L'extraction de frames se fait en utilisant le script [keyframes.sh](/scripts/keyframes.sh) 
+L'extraction de frames se fait en utilisant le script [keyframes.sh](/keyframes.sh) 
 
 Les arguments possibles sont les suivants comme expliqué dans le code:
 
