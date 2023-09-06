@@ -1,5 +1,5 @@
 # Scripts à disposition
-note: On a repris le README principal
+
 ## Pour avoir les masques
 Les masques sont récupérés à l'air du programme [chromakey](https://github.com/simogasp/chromakey)
 Le fichier principal à lancer est 'processImage.cpp'
