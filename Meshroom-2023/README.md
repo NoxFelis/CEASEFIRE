@@ -128,7 +128,7 @@ toute la suite se fait avec le paramétrage suivant:
 
 Les images utilisées seront celles en sortie du module **scanRig** sur Blender
 
-fichier : [synthetised.mg](/synthetised.mg)
+fichier : [synthetised.mg](synthetised.mg)
 
 Pour aligner les reconstructions afin de les comparer correctement, il est nécessaire d'ajouter un node **SfmAlignment** entre les ndoes **StructureFromMotion** et **PrepareDenseScene** de paramétrage suivant: 
 - **Input** SfmData en sortie du node **StructureFromMotion**
