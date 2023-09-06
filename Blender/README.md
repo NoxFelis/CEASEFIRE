@@ -30,3 +30,27 @@ La scène proposée est la suivante:
 La particularité de cette mise en scène est que l'on peut rendre le plan texturé invisible afin de créer les masques.
 
 Pour pouvoir calibrer les caméras de Meshroom dans les bonnes positions par rapport à celles de Blender, il faudra récupérer la position des caméras utilisées par ScanRig. Pour cela on peut ajouter un script python. Il faudra sélectionner toutes les caméra avant de le lancer. (une copie se trouve à [position_cameras.py](/Blender/position_cameras.py) ).
+
+## Autres modèles
+D'autres modèles sont évidemment disponibles sur internet, en voici une sélection gratuite:
+### Pistolets
+[Beretta](https://free3d.com/3d-model/beretta-pistol-459996.html)
+[Glock 18C](https://free3d.com/3d-model/glock-18c-21450.html)
+[Pistol Tauros](https://free3d.com/3d-model/pistol-tauros-503412.html)
+[Colt 45](https://free3d.com/3d-model/colt-45-31230.html)
+[Tanfoglio custom](https://www.cgtrader.com/free-3d-models/military/gun/tanfoglio-custom)
+[G2 Combat Pistol](https://www.cgtrader.com/free-3d-models/military/gun/g2-combat-pistol)
+[Glock 19 Semi Automatic Pistol 9mm](https://www.cgtrader.com/free-3d-models/military/gun/glock-19-semi-automatic-pistol-9mm)
+[Springfield XD-MOD2 Tan](https://www.cgtrader.com/free-3d-models/military/gun/springfield-xd-mod2-tan)
+[Colt 1851 Navy](https://www.cgtrader.com/free-3d-models/military/gun/colt-1851-navy-7a706f14-89dd-4bad-855f-47cb5e900cde)
+[MAC 10 Submachine gun](https://www.cgtrader.com/free-3d-models/military/gun/mac-10-submachine-gun-92bb5464-ad47-4c2c-bb0c-1f185eab3801)
+[Weapon pack 001](https://www.cgtrader.com/free-3d-models/military/gun/weapon-pack-001)
+
+### Fusils
+[Sniper Rifle KSR-29](https://free3d.com/3d-model/sniper-rifle-ksr-29-new-34178.html)
+[AK-47](https://www.cgtrader.com/free-3d-models/military/gun/ak-47-assault-rifle-ffadbea9-ef36-43d6-80a9-a8ffba7ac21d)
+[KSR-29](https://free3d.com/3d-model/ksr-29-sniper-rifle-44351.html)
+[ak rifles](https://www.cgtrader.com/free-3d-models/military/gun/ak-103-42170499-df73-42d5-a23c-c67d95228e69)
+[M4 assault rigle](https://www.cgtrader.com/free-3d-models/military/gun/m4-assault-rifle-0ca7e9f2-ece2-4476-acd5-f57ae732a7c7)
+[SCANN Weapon Concept](https://www.cgtrader.com/free-3d-models/military/gun/scann-weapon-concept)
+[SS2V5 Assault Rifle](https://www.cgtrader.com/free-3d-models/military/gun/ss2v5-assault-rifle)
