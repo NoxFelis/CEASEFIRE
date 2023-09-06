@@ -1,13 +1,13 @@
 # Blender
-Note: ce Readme reprend les éléments du Readme principal
-### Modèles 3D
+
+## Modèles 3D
 
 Les modèles utilisés sont les suivants:
 - [Pistol type Taurus](https://free3d.com/3d-model/pistol-tauros-503412.html)
 - [Colt 45](https://free3d.com/3d-model/colt-45-31230.html)
 
 Pour le modèle Taurus, il est possible que la texture ne fonctionne pas. Il est possible alors d'ajouter de la rugosité à la main.
-#### Ajouter de la texture rugueuse
+## Ajouter de la texture rugueuse
 - Ouvrir la section 'Shader Editor' sur la texture choisie
 - ajouter un noeud 'Bump' et relier la 'normal' de sortie à la 'normal' d'entrée du 'principled BSDF'
 - ajouter un noeud 'Noise Texture'. Modifier le 'scale' à 1000. relier la sortie 'fac' à l'entrée 'height' de 'bump'
@@ -17,7 +17,7 @@ Pour le modèle Taurus, il est possible que la texture ne fonctionne pas. Il est
 
 Vous devriez obtenir ceci: ![texture_nodes](/divers_template/texture_nodes.png)
  
-## Blender
+# Blender
 
 On utilisera le plugin [ScanRig](https://www.ins2i.cnrs.fr/fr/les-decodeuses-du-numerique) sur le logiciel [Blender](https://www.blender.org) afin de faire des acquisitions des modèles en utilisant le mode **UV Sphere** et l'option **Beauty**.
 
