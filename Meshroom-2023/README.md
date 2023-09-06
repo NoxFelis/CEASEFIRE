@@ -7,7 +7,7 @@ Dans le node **PrepareDenseScene** on mettra le dossier avec les masques afin de
 Les tests sur photos sont du dossier **lefaucheux_7mm/fond_vert_4**
 ceux sur vidéos sont de **lefaucheux_7mm/0004.MTS**
 ## Travail préliminaire
-fichier : [lefaucheux_7mm.mg](/lefaucheux_7mm.mg)
+fichier : [lefaucheux_7mm.mg](lefaucheux_7mm.mg)
 
 | **ID** | Images | Qualité d'images | Masques | Density | Quality | Cross Matching | Guided Matching | 
 |:-:|:-:|---|:-:|---|---|:-:|:-:|
@@ -48,7 +48,7 @@ Pour la suite nous allons ajouter un node **ImageProcessing** qui sera relié de
 - **Keep Image Name** : Il est important qu'il soit coché pour que l'utilisation des masques fonctionne
 - **Output File Extension** jpg
 
-fichier : [lefaucheux_7mm_processing.mg](/lefaucheux_7mm_processing.mg)
+fichier : [lefaucheux_7mm_processing.mg](lefaucheux_7mm_processing.mg)
 
 | **ID** | Filtre | Paramètres |
 |:-:|---|---|
@@ -82,7 +82,7 @@ toute la suite se fait avec le paramétrage suivant:
 |:-:|:-|:-:|:--|---|:-:|:-:|
 | 41 | toutes les images | x | high | normal | x | x |
 
-fichier : [lefaucheux_7mm_video.mg](/lefaucheux_7mm_video.mg)
+fichier : [lefaucheux_7mm_video.mg](lefaucheux_7mm_video.mg)
 
 | ID | Méthode de sélection | Images (variera selon vidéo) |
 |:-:|:--|:-:|
@@ -101,7 +101,7 @@ toute la suite se fait avec le paramétrage suivant:
 |:-:|:-|:-:|:--|---|:-:|:-:|
 | 41 | toutes les images | x | high | normal | x | x |
 
-fichier : [lefaucheux_7mm_combi.mg](/lefaucheux_7mm_combi.mg)
+fichier : [lefaucheux_7mm_combi.mg](lefaucheux_7mm_combi.mg)
 
 De plus si l'on applique des filtre ce sera ensemble:
 - **Clahe** : Clip Limit 4, Tile Grid Size 8
