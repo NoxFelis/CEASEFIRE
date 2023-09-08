@@ -1,0 +1,214 @@
+{
+    "scores": [
+        {
+            "id": 7,
+            "model_path": "",
+            "reprojection": 1.2694299799235056,
+            "rugosite": NaN,
+            "ecart": NaN,
+            "rapports": NaN,
+            "manques": NaN,
+            "faces": NaN
+        },
+        {
+            "id": 10,
+            "model_path": "/home/sacha/Projets/CEASEFIRE/Meshroom-2023/MeshroomCache/MeshFiltering/794a5e7c528d2d399983355daf1471510af2a1e4/mesh.obj",
+            "reprojection": 1.1003888383784897,
+            "rugosite": 0.30566369040655417,
+            "ecart": NaN,
+            "rapports": NaN,
+            "manques": 0.3203357632601924,
+            "faces": 13982
+        },
+        {
+            "id": 9,
+            "model_path": "/home/sacha/Projets/CEASEFIRE/Meshroom-2023/MeshroomCache/MeshFiltering/41f78c2244978f09cc68ec8fb3eb0f6ad583fdf6/mesh.obj",
+            "reprojection": 1.410620908285255,
+            "rugosite": 0.2669435084372655,
+            "ecart": NaN,
+            "rapports": 0.022575872033125746,
+            "manques": 0.018349416045240406,
+            "faces": 68612
+        },
+        {
+            "id": 8,
+            "model_path": "/home/sacha/Projets/CEASEFIRE/Meshroom-2023/MeshroomCache/MeshFiltering/a8691b5461c846228ad9c5da6f5bff58d359b59c/mesh.obj",
+            "reprojection": 0.9564504455402639,
+            "rugosite": 0.29660873486764405,
+            "ecart": NaN,
+            "rapports": NaN,
+            "manques": 0.23148217672247345,
+            "faces": 45292
+        },
+        {
+            "id": 6,
+            "model_path": "/home/sacha/Projets/CEASEFIRE/Meshroom-2023/MeshroomCache/MeshFiltering/2bb981162aea701b59835a60ee8939f79629bc5f/mesh.obj",
+            "reprojection": 1.0193687238777498,
+            "rugosite": 0.2972681999218013,
+            "ecart": NaN,
+            "rapports": NaN,
+            "manques": 0.3343682690739962,
+            "faces": 17227
+        },
+        {
+            "id": 5,
+            "model_path": "/home/sacha/Projets/CEASEFIRE/Meshroom-2023/MeshroomCache/MeshFiltering/341811c4bbd1ee709410e0db764b5dbf27e78074/mesh.obj",
+            "reprojection": 1.9283113814326558,
+            "rugosite": 0.2588678039626526,
+            "ecart": NaN,
+            "rapports": 0.02477745831949109,
+            "manques": 0.004490680751375147,
+            "faces": 110972
+        },
+        {
+            "id": 4,
+            "model_path": "/home/sacha/Projets/CEASEFIRE/Meshroom-2023/MeshroomCache/MeshFiltering/d051763a0b0583d0552262ac8a812672adefc9d5/mesh.obj",
+            "reprojection": 2.9182509619638712,
+            "rugosite": 0.25295410422535963,
+            "ecart": NaN,
+            "rapports": 0.024100068230189342,
+            "manques": 0.0017548677198733406,
+            "faces": 119349
+        },
+        {
+            "id": 3,
+            "model_path": "/home/sacha/Projets/CEASEFIRE/Meshroom-2023/MeshroomCache/MeshFiltering/e4ceeda78ee27a35387d3153c062bbb829104480/mesh.obj",
+            "reprojection": 2.2055148006420104,
+            "rugosite": 0.301014994009132,
+            "ecart": NaN,
+            "rapports": 0.022113279015447938,
+            "manques": 0.0,
+            "faces": 106926
+        },
+        {
+            "id": 1,
+            "model_path": "",
+            "reprojection": NaN,
+            "rugosite": NaN,
+            "ecart": NaN,
+            "rapports": NaN,
+            "manques": NaN,
+            "faces": NaN
+        },
+        {
+            "id": 2,
+            "model_path": "",
+            "reprojection": 1.5534207436678835,
+            "rugosite": NaN,
+            "ecart": NaN,
+            "rapports": NaN,
+            "manques": NaN,
+            "faces": NaN
+        },
+        {
+            "id": 15,
+            "model_path": "/home/sacha/Projets/CEASEFIRE/Meshroom-2023/MeshroomCache/MeshFiltering/3a495275f79a36779280518e928799394176ee9b/mesh.obj",
+            "reprojection": 1.5051784727497661,
+            "rugosite": 0.27009685584100246,
+            "ecart": NaN,
+            "rapports": 0.022174958554091344,
+            "manques": 0.0,
+            "faces": 186152
+        },
+        {
+            "id": 14,
+            "model_path": "/home/sacha/Projets/CEASEFIRE/Meshroom-2023/MeshroomCache/MeshFiltering/e3fa6cab39e6cd64fcea72f702f9c5362d6e4e0b/mesh.obj",
+            "reprojection": 1.3657007243190806,
+            "rugosite": 0.26152710980222604,
+            "ecart": NaN,
+            "rapports": 0.022852411676656418,
+            "manques": 0.0,
+            "faces": 167787
+        },
+        {
+            "id": 13,
+            "model_path": "/home/sacha/Projets/CEASEFIRE/Meshroom-2023/MeshroomCache/MeshFiltering/1ea08045bbe2e72372c20609dfb107ef44ffa16b/mesh.obj",
+            "reprojection": 1.4286123246228644,
+            "rugosite": 0.2655082459998933,
+            "ecart": NaN,
+            "rapports": 0.023113314113911564,
+            "manques": 0.0,
+            "faces": 173165
+        },
+        {
+            "id": 12,
+            "model_path": "/home/sacha/Projets/CEASEFIRE/Meshroom-2023/MeshroomCache/MeshFiltering/5ede6b5cbbf0ae779cc38ee4b7e7a95ce31f9b09/mesh.obj",
+            "reprojection": 1.044737655881021,
+            "rugosite": 0.23651444654512446,
+            "ecart": NaN,
+            "rapports": 0.022830700732650252,
+            "manques": 0.00895186342066196,
+            "faces": 50296
+        },
+        {
+            "id": 11,
+            "model_path": "/home/sacha/Projets/CEASEFIRE/Meshroom-2023/MeshroomCache/MeshFiltering/2818870193d62dffbfcb46d54eacca53de9ee600/mesh.obj",
+            "reprojection": 1.745006506186638,
+            "rugosite": 0.2438430412009768,
+            "ecart": NaN,
+            "rapports": NaN,
+            "manques": 0.0,
+            "faces": 203538
+        },
+        {
+            "id": 16,
+            "model_path": "/home/sacha/Projets/CEASEFIRE/Meshroom-2023/MeshroomCache/MeshFiltering/33f524221118095ae4d67f4d38a344dfacc33ab3/mesh.obj",
+            "reprojection": 1.5198004363497748,
+            "rugosite": 0.2786593903046106,
+            "ecart": NaN,
+            "rapports": 0.021211426957660106,
+            "manques": 0.0025770597169900373,
+            "faces": 275975
+        },
+        {
+            "id": 17,
+            "model_path": "/home/sacha/Projets/CEASEFIRE/Meshroom-2023/MeshroomCache/MeshFiltering/cbdf0aa2ddb033f67492617f3abf67a0cc32fedc/mesh.obj",
+            "reprojection": 1.2918001244674908,
+            "rugosite": 0.2578036092835816,
+            "ecart": NaN,
+            "rapports": 0.01686794726103528,
+            "manques": 0.0,
+            "faces": 278403
+        },
+        {
+            "id": 18,
+            "model_path": "/home/sacha/Projets/CEASEFIRE/Meshroom-2023/MeshroomCache/MeshFiltering/eed850e73c507e2c4c8a47bb3e9b38bbbaddbca2/mesh.obj",
+            "reprojection": 1.2733560213424988,
+            "rugosite": 0.2935408897893127,
+            "ecart": NaN,
+            "rapports": 0.021249068196352396,
+            "manques": 0.0047111118738897995,
+            "faces": 74383
+        },
+        {
+            "id": 19,
+            "model_path": "/home/sacha/Projets/CEASEFIRE/Meshroom-2023/MeshroomCache/MeshFiltering/52516a922a795ebea9b9917b8866f570776e7655/mesh.obj",
+            "reprojection": 1.3731753507812146,
+            "rugosite": 0.30673028605771396,
+            "ecart": NaN,
+            "rapports": 0.022071128302825233,
+            "manques": 0.023796907313808107,
+            "faces": 56968
+        },
+        {
+            "id": 20,
+            "model_path": "/home/sacha/Projets/CEASEFIRE/Meshroom-2023/MeshroomCache/MeshFiltering/e09e70bd84c9e19371b463cadb972ebf4e4efcd2/mesh.obj",
+            "reprojection": 1.2504538734961363,
+            "rugosite": 0.22649746998684916,
+            "ecart": NaN,
+            "rapports": 0.028837803384779256,
+            "manques": 0.0054104845837659715,
+            "faces": 102246
+        },
+        {
+            "id": 21,
+            "model_path": "/home/sacha/Projets/CEASEFIRE/Meshroom-2023/MeshroomCache/MeshFiltering/d6d858f9bfd97f5b9a388611c3bdce0754d1b247/mesh.obj",
+            "reprojection": 1.2251798963840705,
+            "rugosite": 0.2328526187416433,
+            "ecart": NaN,
+            "rapports": 0.02841625931903296,
+            "manques": 0.005674358336265264,
+            "faces": 101342
+        }
+    ]
+}
