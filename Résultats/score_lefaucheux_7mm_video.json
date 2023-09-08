@@ -2,7 +2,7 @@
     "scores": [
         {
             "id": 1,
-            "model_path": "/home/sacha/Projets/CEASEFIRE/Meshroom-2023video/MeshroomCache/MeshFiltering/c6024c7b52aaaeba05ad44fc8bf93c800d44b626/mesh.obj",
+            "model_path": "/CEASEFIRE/Meshroom-2023video/MeshroomCache/MeshFiltering/c6024c7b52aaaeba05ad44fc8bf93c800d44b626/mesh.obj",
             "reprojection": 1.2884521960769102,
             "rugosite": 0.24254254726248833,
             "ecart": NaN,
@@ -12,7 +12,7 @@
         },
         {
             "id": 3,
-            "model_path": "/home/sacha/Projets/CEASEFIRE/Meshroom-2023video/MeshroomCache/MeshFiltering/d54d3f1fb1723c21239b095ff4fa9f03138685e8/mesh.obj",
+            "model_path": "/CEASEFIRE/Meshroom-2023video/MeshroomCache/MeshFiltering/d54d3f1fb1723c21239b095ff4fa9f03138685e8/mesh.obj",
             "reprojection": 1.467370635229274,
             "rugosite": 0.2586922397129235,
             "ecart": NaN,
@@ -22,7 +22,7 @@
         },
         {
             "id": 4,
-            "model_path": "/home/sacha/Projets/CEASEFIRE/Meshroom-2023video/MeshroomCache/MeshFiltering/ba35e77cec7efa5006da1e353c8bd3888db063d6/mesh.obj",
+            "model_path": "/CEASEFIRE/Meshroom-2023video/MeshroomCache/MeshFiltering/ba35e77cec7efa5006da1e353c8bd3888db063d6/mesh.obj",
             "reprojection": 0.959769149911579,
             "rugosite": 0.2897676496179659,
             "ecart": NaN,
@@ -32,7 +32,7 @@
         },
         {
             "id": 5,
-            "model_path": "/home/sacha/Projets/CEASEFIRE/Meshroom-2023video/MeshroomCache/MeshFiltering/8bdcf5f37c2944cea001b398424827992bf3f9f9/mesh.obj",
+            "model_path": "/CEASEFIRE/Meshroom-2023video/MeshroomCache/MeshFiltering/8bdcf5f37c2944cea001b398424827992bf3f9f9/mesh.obj",
             "reprojection": 0.9415856071815858,
             "rugosite": 0.279259694692995,
             "ecart": NaN,
@@ -42,7 +42,7 @@
         },
         {
             "id": 6,
-            "model_path": "/home/sacha/Projets/CEASEFIRE/Meshroom-2023video/MeshroomCache/MeshFiltering/de8a168406556d9e2c105a506acd7501e419c464/mesh.obj",
+            "model_path": "/CEASEFIRE/Meshroom-2023video/MeshroomCache/MeshFiltering/de8a168406556d9e2c105a506acd7501e419c464/mesh.obj",
             "reprojection": 1.0115675739643455,
             "rugosite": 0.29418437795766605,
             "ecart": NaN,
@@ -52,7 +52,7 @@
         },
         {
             "id": 7,
-            "model_path": "/home/sacha/Projets/CEASEFIRE/Meshroom-2023video/MeshroomCache/MeshFiltering/437a945c5ac068ad921755304349e0c087a24454/mesh.obj",
+            "model_path": "/CEASEFIRE/Meshroom-2023video/MeshroomCache/MeshFiltering/437a945c5ac068ad921755304349e0c087a24454/mesh.obj",
             "reprojection": 0.9302338136993208,
             "rugosite": 0.28987442698418137,
             "ecart": NaN,
@@ -62,7 +62,7 @@
         },
         {
             "id": 2,
-            "model_path": "/home/sacha/Projets/CEASEFIRE/Meshroom-2023video/MeshroomCache/MeshFiltering/b19072a3aa30157340468ee5a1bc603bf201a7d1/mesh.obj",
+            "model_path": "/CEASEFIRE/Meshroom-2023video/MeshroomCache/MeshFiltering/b19072a3aa30157340468ee5a1bc603bf201a7d1/mesh.obj",
             "reprojection": 1.2835962702357875,
             "rugosite": 0.2955462021470118,
             "ecart": NaN,
